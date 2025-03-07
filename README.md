@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy 👋
 
 <!--
 **Palpeleno/Palpeleno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me
+Greetings! My name is Kush Darji, I am a first-generation Computer Scientist from Georgia State University. 
+My primary hobbies are DIY fabrication sustainability of technology systems,QOL softwares, motorsports, body training, PC gamming/modding, hardware instalation and horticulure to name a few.
+
+Activly looking for junior software enginnering positions  
+
+- 🔭 I’m currently working on ...
+    - Personal website on Webleno
+
+- 🌱 I’m currently learning ...
+    - C, C#, optimizing linux, Web Development, Agile development, JavaScript
+
+- 🤔 I’m looking for help with ...
+    optimizing my expierence to stand out to companies 
+
+- 💬 Ask me about ...
+    Favorite Themed past time.
+
+- 📫 How to reach me: ...
+    please reach me at 
+    Kush7darji+work@gmail.com
+    www.linkedin.com/in/kush-darji-18bb81130
+
+- ⚡ Fun fact: ...
+    - I have broken foot five times 💀.
+
+
