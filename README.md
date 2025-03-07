@@ -28,17 +28,16 @@ Activly looking for junior software enginnering positions
     - C, C#, optimizing linux, Web Development, Agile development, JavaScript
 
 - 🤔 I’m looking for help with ...
-    optimizing my expierence to stand out to companies 
+    - Optimizing my expertise and programing skill to stand out to companies /
 
 - 💬 Ask me about ...
-    Favorite Themed past time.
+    - Favorite Themed past time.
 
 - 📫 How to reach me: ...
-    please reach me at 
-
-    Kush7darji+work@gmail.com
-    
-    www.linkedin.com/in/kush-darji-18bb81130
+    - Email:
+        - Kush7darji+work@gmail.com
+    - Linkedin:
+        - www.linkedin.com/in/kush-darji-18bb81130
 
 - ⚡ Fun fact: ...
     - I have broken foot five times 💀.
