@@ -35,7 +35,9 @@ Activly looking for junior software enginnering positions
 
 - 📫 How to reach me: ...
     please reach me at 
+
     Kush7darji+work@gmail.com
+    
     www.linkedin.com/in/kush-darji-18bb81130
 
 - ⚡ Fun fact: ...
