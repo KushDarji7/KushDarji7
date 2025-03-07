@@ -21,16 +21,13 @@ My primary hobbies are DIY fabrication sustainability of technology systems,QOL 
 Activly looking for junior software enginnering positions  
 
 - 🔭 I’m currently working on ...
-    - Personal website on Webleno
+    - Personal portfolio website Palpeleno.
 
 - 🌱 I’m currently learning ...
-    - C, C#, optimizing linux, Web Development, Agile development, JavaScript
+    - C, C#, optimizing linux, Web Development, Agile development, JavaScript.
 
 - 🤔 I’m looking for help with ...
-    - Optimizing my expertise and programing skill to stand out to companies /
-
-- 💬 Ask me about ...
-    - Favorite Themed past time.
+    - Optimizing my expertise and programing skill to stand out to companies.
 
 - 📫 How to reach me: ...
     - Email:
@@ -39,6 +36,6 @@ Activly looking for junior software enginnering positions
         - www.linkedin.com/in/kush-darji-18bb81130
 
 - ⚡ Fun fact: ...
-    - I have broken foot five times 💀.
+    - I have broken my foot five times 💀.
 
 
