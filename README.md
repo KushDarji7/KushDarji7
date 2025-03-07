@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
-Greetings! My name is Kush Darji, I am a first-generation Computer Scientist from Georgia State University. 
+- Greetings! My name is Kush Darji, I am a first-generation Computer Scientist from Georgia State University. 
 My primary hobbies are DIY fabrication sustainability of technology systems,QOL softwares, motorsports, body training, PC gamming/modding, hardware instalation and horticulure to name a few.
 
 Activly looking for junior software enginnering positions  
