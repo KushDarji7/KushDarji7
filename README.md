@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - Greetings! My name is Kush Darji, I am a first-generation Computer Scientist from Georgia State University. 
 My primary hobbies are DIY fabrication sustainability of technology systems,QOL softwares, motorsports, body training, PC gamming/modding, hardware instalation and horticulure to name a few.
 
+![typing retro anime](https://github.com/user-attachments/assets/b116ce09-bd1c-40ac-a4a2-9cc739d48786)
+
 Activly looking for junior software enginnering positions  
 
 - 🔭 I’m currently working on ...
