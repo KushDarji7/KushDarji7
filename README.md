@@ -37,8 +37,3 @@ Activly looking for junior software enginnering positions
     - Linkedin:
         - www.linkedin.com/in/kush-darji-18bb81130
 
-- ⚡ Fun fact: ...
-    - I have broken my foot five times 💀.
-
-![Vergil_wip](https://github.com/user-attachments/assets/f749f25e-9b9b-40ee-8905-00789f0ec6a5)
-
