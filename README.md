@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://kushdarji7.github.io/KushDarjiEndure/
 
-- Greetings! My name is Kush Darji, I am a first-generation Computer Science graduate with a strong foundation in programming, software development, and system sustainability. My goal is to refine my technical skills while contributing to impactful and efficient software solutions. Make software human friendly.
+- My name is Kush Darji, I am a first-generation Computer Science graduate with a strong foundation in programming, software development, and system sustainability. My goal is to refine my technical skills while contributing to impactful and efficient software solutions. Make software human friendly.
 My creative hobbies in tandem with software development inlcude DIY fabrication, sustainability and QOL of software, motorsports, mind and body training, PC gamming/modding, hardware instalation and horticulure to name a few.
 
 ![halo-superintendent](https://github.com/user-attachments/assets/c60419b1-00b5-4049-b1ed-764455c46d73)
