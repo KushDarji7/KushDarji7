@@ -36,5 +36,7 @@ Activly looking for junior software enginnering positions
     - Email:
         - Kush7darji+work@gmail.com
     - Linkedin:
-        - www.linkedin.com/in/kush-darji-18bb81130
+        - www.linkedin.com/in/kush-darji-18bb8113
+    - Portfolio
+        - https://kushdarji7.github.io/KushDarjiEndure/
 
